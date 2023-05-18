@@ -11,7 +11,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/N/A.git"
+    "url": "git+https://github.com/Kadajett/t3UI.git"
   },
   "keywords": [
     "t3.gg",
@@ -22,7 +22,7 @@
   "author": "Jeremy Stover (Kadajett)",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/N/A/issues"
+    "url": "https://github.com/Kadajett/t3UI/issues"
   },
-  "homepage": "https://github.com/N/A#readme"
+  "homepage": "https://github.com/Kadajett/t3UI/readme"
 }
